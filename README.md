@@ -1,4 +1,4 @@
-WebSphere-Portlet-State-Decoder
+IBM WebSphere Portlet State Decoder
 ===============================
 
 IBM WebSphere Portlet State Decoder plugin for Burp
